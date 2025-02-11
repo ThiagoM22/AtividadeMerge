@@ -1,0 +1,6 @@
+@AtividadeMerge_HostAddress = http://localhost:5110
+
+GET {{AtividadeMerge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
