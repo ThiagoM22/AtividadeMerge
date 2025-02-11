@@ -3,8 +3,9 @@
     public class Mazzi
     {
         public int MazziId { get; set; }
-        public string Nickname { get; set; }
-        public string Usuário { get; set; }
-        public int Idade { get; set; }
+        public string Nome { get; set; }
+        public string UltimoNome { get; set; }
+
+        public int SobrenomeId { get; set; }
     }
 }
